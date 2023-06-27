@@ -12,7 +12,7 @@ namespace XUnit.Coverlet
         [Theory]
         [InlineData(-1), InlineData(0), InlineData(1)]
         public void IsPrime_ValuesLessThan2_ReturnFalse(int value) =>
-            Assert.False(_primeService.IsPrime(value), $"{value} should not be prime");
+            Assert.False(_primeService.IsPrime(value), $"{value} should not be prime.");
 
         [Theory]
         [InlineData(2), InlineData(3), InlineData(5), InlineData(7)]
