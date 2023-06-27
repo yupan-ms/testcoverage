@@ -1,0 +1,12 @@
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\bin\Debug\net7.0\Numbers.deps.json
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\bin\Debug\net7.0\Numbers.dll
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\bin\Debug\net7.0\Numbers.pdb
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.csproj.AssemblyReference.cache
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfoInputs.cache
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.AssemblyInfo.cs
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.csproj.CoreCompileInputs.cache
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.dll
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\refint\Numbers.dll
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\Numbers.pdb
+C:\Users\yupan\Source\fsdev\testcoverage\Numbers\obj\Debug\net7.0\ref\Numbers.dll
